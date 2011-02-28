@@ -1,3 +1,9 @@
+// © Dan Tamas  - http://dan-tamas.me
+// More tutorials on http://cssgallery.info/category/titanium-appcelerator/
+// This code is MIT licensed.
+
+
+
 var win = Titanium.UI.currentWindow;
 
 

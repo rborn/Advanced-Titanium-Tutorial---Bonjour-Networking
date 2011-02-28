@@ -1,3 +1,9 @@
+// © Dan Tamas  - http://dan-tamas.me
+// More tutorials on http://cssgallery.info/category/titanium-appcelerator/
+// This code is MIT licensed.
+
+
+
 // this sets the background color of the master UIView (when there are no windows/tab groups on it)
 Titanium.UI.setBackgroundColor('#000');
 
